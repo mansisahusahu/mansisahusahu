@@ -1,4 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<div align="center">
+<img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" align="center" style="width: 100%" />
+</div>  
 <h1 align="center">Hi 👋, I'm Mansi Sahu</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 <p align="justify">A highly motivated and adaptable professional seeking to transition into a new career in the Software profession. I am eager to leverage my transferable skills and passion for BCA industry to make a positive impact in a new role. I am confident in my ability to excel in a new environment and contribute to the success of my team and organization. I am committed to continuous learning and development, and excited to embrace new challenges and opportunities in my career transition.</p>
